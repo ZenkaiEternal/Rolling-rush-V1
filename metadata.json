@@ -1,0 +1,6 @@
+{
+  "name": "Rolling Rush 3D",
+  "description": "High-octane 3D rolling ball arcade runner with smooth touch controls, physics tracks, dynamic obstacles, collectibles, and 20 challenging levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
